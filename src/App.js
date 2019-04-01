@@ -6,7 +6,7 @@ class App extends Component {
     return (
       <div >
        <h1>
-         ngoding intern
+         frondend
        </h1>
       </div>
     );
