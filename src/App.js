@@ -6,7 +6,7 @@ class App extends Component {
     return (
       <div >
        <h1>
-         codewith
+         codewit
        </h1>
       </div>
     );
