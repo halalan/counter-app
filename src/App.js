@@ -6,7 +6,7 @@ class App extends Component {
     return (
       <div >
        <h1>
-         withmosh
+         code
        </h1>
       </div>
     );
