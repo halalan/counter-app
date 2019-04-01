@@ -6,7 +6,7 @@ class App extends Component {
     return (
       <div >
        <h1>
-         frondend
+         withmosh
        </h1>
       </div>
     );
