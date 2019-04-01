@@ -6,7 +6,7 @@ class App extends Component {
     return (
       <div >
        <h1>
-         ngoding  word
+         ngoding  bareng
        </h1>
       </div>
     );
